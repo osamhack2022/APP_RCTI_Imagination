@@ -31,7 +31,7 @@ MZ세대에서 mbti 검사가 근래 2년정도 트렌드를 이끌었다. 개�
  
 ## 팀 정보 (Team Information)
 - Lee Sang Yeop (lildevsy0117@naver.com), Github Id: LilDevsy0117
-- Lee Sang hoon (), Github Id: Sanghoon560
+- Lee Sang hoon (korean_s_h@naver.com), Github Id: Sanghoon560
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
